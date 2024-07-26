@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! This is Aayush, a web developer from Nepal.</h1>
+<h2 align="left">A Computer Science student from Nepal who is passionate about building stuff for the web.</h2>
 
 ###
 
@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
 </div>
 
 ###
@@ -50,9 +48,6 @@
 ###
 
 <div align="left">
-  <a href="https://discordapp.com/users/986940340227432450" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/aayush-upreti-a21945293/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
