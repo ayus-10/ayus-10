@@ -23,7 +23,16 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-773a69e59c2e.herokuapp.com?user=ayus-10&theme=blueberry-duo&border_radius=0" alt="GitHub Streak" /></a>
+  <img 
+    src="https://github-readme-773a69e59c2e.herokuapp.com?user=ayus-10&theme=blueberry-duo&border_radius=0" 
+    alt="GitHub Streak"
+    height="195"  
+  />
+  <img
+    src="https://github-readme-stats-3b8151550430.herokuapp.com/top-langs?username=ayus-10&theme=blueberry_duo&layout=compact&border_radius=0"
+    alt="Top Languages"
+    height="195"
+  />
 </div>
 
 ###
