@@ -24,7 +24,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-773a69e59c2e.herokuapp.com?user=ayus-10&theme=blueberry-duo&border_radius=0" 
+    src="https://github-readme-773a69e59c2e.herokuapp.com/?user=ayus-10&theme=blueberry-duo&border_radius=0" 
     alt="GitHub Streak"
     height="195"  
   />
